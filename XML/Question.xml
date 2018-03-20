@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RootNode Value="5">
+  <Level1>
+    <Level2 Value="12" />
+    <Level2 Value="7" />
+    <Level2 Value="5">
+      <Level3 Value="12" />
+      <Level3 Value="18" />  
+    </Level2>
+  </Level1>
+  <Level1 Value="8" >
+    <Level2 Value="3" >
+      <Level3 Value="2" >
+        <Level4 Value="2.5" />
+      </Level3>
+    </Level2>
+  </Level1>
+  <Level1 />
+  <Level1 Value="8" />
+</RootNode>
