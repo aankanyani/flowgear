@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Members"
+    targetNamespace="http://tempuri.org/Members.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Members.xsd"
+    xmlns:mstns="http://tempuri.org/Members.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="Member">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="FirstName"></xs:element>
+        <xs:element name="Surname"></xs:element>
+        <xs:element name="EmailAddress"></xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
